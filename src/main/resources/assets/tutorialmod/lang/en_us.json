@@ -1,0 +1,11 @@
+{
+  "item.tutorialmod.uran": "Uran",
+  "item.tutorialmod.raw_uran": "Raw Uran",
+
+  "block.tutorialmod.uran_block": "Block of Uran",
+  "block.tutorialmod.uran_ore": "Uran Ore",
+  "block.tutorialmod.deepslate_uran_ore": "Deepslate Uran Ore",
+  "block.tutorialmod.end_uran_ore": "Deepslate Uran Ore",
+
+  "itemGroup.tutorialtab": "Test Tab"
+}
